@@ -1,3 +1,4 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm Vanshika Agrawal</h1>
 <h3 align="center">🎓 CS Student | 💻 Aspiring Web Developer | 💻 Building cool things on the web</h3>
  <a href="https://www.linkedin.com/in/vanshika-agrawal-ab132b334/"> <img src="https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0" height="300" align="right"></a>
