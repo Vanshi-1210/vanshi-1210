@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vanshika Agrawal</h1>
-<h3 align="center">🎓 CS Student | Frontend developer on a learning journey 🚀</h3>
-<img align="right" alt="coding" Width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApAl3qf9KbnNjKVKy4qfkYRLjWT2CGElLcg&s">
-
+<h3 align="center">🌐 Web Development Enthusiast | 🐍 Python Learner | 📊 Aspiring Data Analyst (Excel)</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshi-1210&label=Profile%20views&color=0e75b6&style=flat" alt="vanshi-1210" /> </p>
 
-- 🔭 I’m currently working on **💻 frontend projects and building a strong foundation in Python.**
+- 🔭 I’m currently working on **🌐 Building frontend web projects 🧩 Improving problem-solving skills 🐍 Practicing Python for logic & automation 📊 Learning data analysis using Excel**
 
-- 🌱 I’m currently learning **👩‍💻 I am JavaScript fundamentals and Python programming.**
+- 🌱 I’m currently learning **JavaScript (fundamentals & DOM manipulation) Python programming Excel for data analysis (formulas, charts, data organization) Git & GitHub for version control**
 
-- 💬 Ask me about ** my learning journey in frontend development and Python.**
+- 💬 Ask me about **Frontend web development basics Python fundamentals Excel for data analysis Git & GitHub**
 
 - 📫 How to reach me **vanshikaagrawal765@gmail.com**
 
-- ⚡ Fun fact **💻 Passion project: I enjoy crafting simple ideas into functional web experiences 🎨⚡**
+- ⚡ Fun fact **I love turning simple ideas into functional web pages and learning new technologies step by step 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshi-1210&show_icons=true&locale=en" alt="vanshi-1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshi-1210&" alt="vanshi-1210" /></p>
-
-
