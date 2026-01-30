@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshi-1210&label=Profile%20views&color=0e75b6&style=flat" alt="vanshi-1210" /> </p>
 
-- 🔭 I’m currently working on **💻 I am currently working on frontend projects and building a strong foundation in Python.**
+- 🔭 I’m currently working on **💻 frontend projects and building a strong foundation in Python.**
 
-- 🌱 I’m currently learning **👩‍💻 I am currently learning JavaScript fundamentals and Python programming.**
+- 🌱 I’m currently learning **👩‍💻 I am JavaScript fundamentals and Python programming.**
 
-- 💬 Ask me about **Ask me about my learning journey in frontend development and Python.**
+- 💬 Ask me about ** my learning journey in frontend development and Python.**
 
 - 📫 How to reach me **vanshikaagrawal765@gmail.com**
 
