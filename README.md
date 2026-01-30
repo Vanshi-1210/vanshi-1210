@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Vanshika Agrawal</h1>
 <h3 align="center">🌐 Web Development Enthusiast | 🐍 Python Learner | 📊 Aspiring Data Analyst (Excel)</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDQzYm9rdnpoaDkwcXc0d3VoMW43d2d6YjdxNjJ4bW9hdzIzaHd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/200w.gif">
