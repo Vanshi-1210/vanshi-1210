@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vanshika Agrawal</h1>
 <h3 align="center">🌐 Web Development Enthusiast | 🐍 Python Learner | 📊 Aspiring Data Analyst (Excel)</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDQzYm9rdnpoaDkwcXc0d3VoMW43d2d6YjdxNjJ4bW9hdzIzaHd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshi-1210&label=Profile%20views&color=0e75b6&style=flat" alt="vanshi-1210" /> </p>
 
-- 🔭 I’m currently working on **🌐 Building frontend web projects 🧩 Improving problem-solving skills 🐍 Practicing Python for logic & automation 📊 Learning data analysis using Excel**
+- 🔭 I’m currently working on--<ul><li>**🌐 Building frontend web projects</li> <li>🧩Improving problem-solving skills</li> <li>🐍 Practicing Python for logic & automation</li> <li>📊 Learning data analysis using Excel**</li></ul>
 
-- 🌱 I’m currently learning **JavaScript (fundamentals & DOM manipulation) Python programming Excel for data analysis (formulas, charts, data organization) Git & GitHub for version control**
+- 🌱 I’m currently learning <ul><li>**JavaScript (fundamentals & DOM manipulation)</li><li> Python programming Excel for data analysis (formulas, charts, data organization)</li><li> Git & GitHub for version control**</li></ul>
 
-- 💬 Ask me about **Frontend web development basics Python fundamentals Excel for data analysis Git & GitHub**
+- 💬 Ask me about **Frontend web development basics,Python fundamentals,Excel for data analysis Git & GitHub**
 
 - 📫 How to reach me **vanshikaagrawal765@gmail.com**
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshi-1210&show_icons=true&locale=en" alt="vanshi-1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshi-1210&" alt="vanshi-1210" /></p>
+
